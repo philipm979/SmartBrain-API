@@ -1,10 +1,10 @@
 {
   "name": "node",
   "version": "6.14.10",
-  "engines" : {
+  "engines": {
     "node": "14.x"
   },
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "start": "nodemon APIserver.js"
   },
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-},
-"description": ""
+  },
+  "description": ""
 }
-  
+ 
