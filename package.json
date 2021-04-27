@@ -4,9 +4,10 @@
   "engines": {
     "node": "14.x"
   },
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon APIserver.js"
+    "start": "server.js",
+    "start: dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -24,4 +25,3 @@
   },
   "description": ""
 }
- 
